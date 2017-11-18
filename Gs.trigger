@@ -1,9 +1,6 @@
 /**********************************************************
 * Trigger Name: ABPRelationshipSuiteBeforeUpdate
-* Author: HP
-* Date: 16/09/2012
-* Requirement # Request Id:3255 
-* Description: Trigger  to get total score on detail page.
+*
               
 ***********************************************************/
 
